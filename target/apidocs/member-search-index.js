@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.funmagsoft.ecare","c":"Utils","l":"upper(String)","u":"upper(java.lang.String)"},{"p":"com.funmagsoft.ecare","c":"Utils","l":"Utils()","u":"%3Cinit%3E()"}];updateSearchResults();
